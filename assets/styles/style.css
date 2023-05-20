@@ -67,6 +67,7 @@ body {
     font-size: 1.5rem;
     font-family: var(--fonte-secun);
     font-weight: 400;
+    text-decoration: none;
 }
 
 .container__links {
