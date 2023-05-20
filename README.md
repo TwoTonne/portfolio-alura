@@ -8,12 +8,15 @@ Olá, Bem-vindo ao meu projeto da Alura.
 
 Esse projeto trata-se de um portfólio para web, desenvolvido a partir dos cursos da trila "A partir do zero: HTML e CSS para projetos web" da Alura. Utiliza-se das linguagens de marcação e estilização (HTML e CSS).
 
+https://img.shields.io/github/license/TwoTonne/portfolio-alura https://github.com/TwoTonne/portfolio-alura/blob/main/LICENSE
+
 ## 📁 Galeria do projeto
+
+[Veja o projeto final do curso em funcionamento](https://portfolio-alura-kappa-five.vercel.app/curriculo.html).
 
 ![Home Page](https://github.com/TwoTonne/portfolio-alura/assets/69181302/c38a2856-6b77-4283-9d1d-beef10228a85)
 ![About Me](https://github.com/TwoTonne/portfolio-alura/assets/69181302/63a82e92-f782-4a3b-99a8-1a8d522eaee1)
 ![Curriculo](https://github.com/TwoTonne/portfolio-alura/assets/69181302/4edaf4fb-44a1-4e9c-bf4e-d23fb8bc46f7)
-
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
