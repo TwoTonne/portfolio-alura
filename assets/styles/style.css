@@ -127,6 +127,7 @@ body {
 
     .header__menu {
         justify-content: center;
+        gap: 30px;
     }
 
     .container {
